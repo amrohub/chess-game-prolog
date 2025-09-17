@@ -15,8 +15,8 @@ This tool is designed to enhance a player's strategic understanding and improve 
 
 ---
 ### How to Run
-1.  Ensure you have a Prolog environment installed.
+1.  Ensure you have a Prolog environment installed like SLI-prolog.
 2.  Load the project files (`utils.pl`, `pieces.pl`, `evaluator.pl`, `chessboard.pl`) into your Prolog console.
-3.  Run the main predicate, which is typically `run.` or `play.`.
+3.  Run the main predicate, which is `play.`.
 
 This program offers both a human-vs-human mode and a human-vs-AI mode where the AI provides advice.
